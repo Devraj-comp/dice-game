@@ -1,0 +1,22 @@
+
+body{
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+    background-color: #374045;
+}
+footer{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+.img{
+   height: 25%;
+   width:25%;
+}
